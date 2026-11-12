@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VPhone X Pro",
+    "price": 1790000,
+    "image": "https://example.com/vphone-x-pro.png",
+    "description": "Màn hình sắc nét, pin bền và thiết kế gọn nhẹ."
+  },
+  {
+    "name": "VPhone Y Plus",
+    "price": 2190000,
+    "image": "https://example.com/vphone-y-plus.png",
+    "description": "Thiết kế hiện đại, camera phù hợp nhu cầu hằng ngày."
+  }
+]
